@@ -1,0 +1,31 @@
+_repo: The-Training-of-a-Forester_31367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pinchot, Gifford
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '3896'
+    url: http://www.gutenberg.org/2009/agents/3896
+    wikipedia: http://en.wikipedia.org/wiki/Gifford_Pinchot
+description: ''
+gutenberg_bookshelf: Forestry
+gutenberg_issued: '2010-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31367'
+  lccn: '14003569'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forestry schools and education -- United States'
+- !lcsh 'Forests and forestry'
+- !lcsh 'Forests and forestry -- Vocational guidance'
+- !lcc 'SD'
+title: The Training of a Forester
+url: http://www.gutenberg.org/ebooks/31367
