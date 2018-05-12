@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3896
     wikipedia: http://en.wikipedia.org/wiki/Gifford_Pinchot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31367#The-Training-of-a-Forester
 gutenberg_bookshelf: Forestry
 gutenberg_issued: '2010-02-23'
 gutenberg_type: Text
